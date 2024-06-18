@@ -2,12 +2,15 @@
 <h1 align="center">Hi 👋, I'm Rajib Kumar Chauhan</h1>
 <h3 align="center">a passionate and dedicated full-stack web developer I specialize in building dynamic, responsive, and user-friendly web applications using a variety of technologies.</h3>
 
+
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif">
 
 
 
-- **Front-end Development**: Crafting beautiful and functional user interfaces using HTML, CSS, JavaScript, and modern frameworks like React.js and Angular.
-- **Back-end Development**: Designing and implementing robust server-side logic with Node.js, Express.js, and Flask. Proficient in working with databases such as MongoDB and PostgreSQL.
+- **Front-end Development**: Crafting beautiful and functional user interfaces using HTML, CSS, JavaScript, and modern frameworks like React.js.
+- 
+- **Back-end Development**: Designing and implementing robust server-side logic with Node.js, Express.js. Proficient in working with databases such as MongoDB .
+- 
 - **Full-stack Projects**: Developing end-to-end solutions, from creating RESTful APIs to deploying applications on cloud platforms like AWS, Heroku, and Render.
 
 ## 🛠️ Skills and Technologies
@@ -39,7 +42,7 @@ I hold a B.Tech degree  in Jalpaiguri Government Engineering College., where I g
 
 ## 🌱 Continuous Learning
 
-I'm constantly exploring new technologies and improving my skills. Currently, I'm diving into [Current Learning Focus], which includes [Relevant Technologies or Topics].
+I'm constantly exploring new technologies and improving my skills.
 
 Let's build something amazing together!
 
