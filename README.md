@@ -1,17 +1,48 @@
+# About Me
 <h1 align="center">Hi 👋, I'm Rajib Kumar Chauhan</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="center">a passionate and dedicated full-stack web developer with a Bachelor of Technology (B.Tech) degree in Jalpaiguri Government Engineering College. I specialize in building dynamic, responsive, and user-friendly web applications using a variety of technologies.</h3>
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif">
 
-- 🔭 I’m currently working on **Ecommerce realtime project**
 
-- 🌱 I’m currently learning **Btech in Information Technology**
 
-- 📫 How to reach me **rajibchauhan2001@gmail.com**
+=- **Front-end Development**: Crafting beautiful and functional user interfaces using HTML, CSS, JavaScript, and modern frameworks like React.js and Angular.
+- **Back-end Development**: Designing and implementing robust server-side logic with Node.js, Express.js, and Flask. Proficient in working with databases such as MongoDB and PostgreSQL.
+- **Full-stack Projects**: Developing end-to-end solutions, from creating RESTful APIs to deploying applications on cloud platforms like AWS, Heroku, and Render.
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1a-4J9450skVpGppuJHXsi7EbnkFdzMS6/view](https://drive.google.com/file/d/1a-4J9450skVpGppuJHXsi7EbnkFdzMS6/view)
+## 🛠️ Skills and Technologies
 
-- ⚡ Fun fact **hard working**
+Here's a snapshot of the technologies I work with:
+
+- **Languages**: JavaScript, Python, SQL
+- **Front-end**: HTML5, CSS3, Bootstrap, React.js, Angular
+- **Back-end**: Node.js, Express.js, Flask
+- **Databases**: MongoDB, PostgreSQL, MySQL
+- **Tools and Platforms**: Git, Docker, AWS, Heroku, Render
+- **Data Visualization**: D3.js, Chart.js, Plotly.js
+
+## 🎓 Education
+
+I hold a B.Tech degree in [Your Major] from [Your University], where I gained a strong foundation in computer science principles and practical skills in software development.
+
+## 🚀 Projects
+
+### [Project 1: BLOG MERN PAGE]
+- **Description**: Simple web application in which users can post their blogs.
+- **Technologies**: ReactJs, Nodejs, MongoDB, Material UI
+-
+
+### [Project 2: Name]
+- **Description**: Developed a web app that allows order and checkout products online.
+- **Technologies**: ReactJs, MongoDB, Express, Material UI, JWT.
+  
+
+## 🌱 Continuous Learning
+
+I'm constantly exploring new technologies and improving my skills. Currently, I'm diving into [Current Learning Focus], which includes [Relevant Technologies or Topics].
+
+Let's build something amazing together!
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
